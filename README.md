@@ -24,4 +24,4 @@ Hardware Requirements : Intel Core i5 or equivalent/above RAM, Minimum 8 GB Stor
 
 # Conclusion: 
 We can improve the sales performance and work towards sustainable business growth. This Dashboard could help in increasing the revenue at least by
-7% in the next quarter. Overall, the project aims to reduce costs related to manual data merging, increase efficiency, and improve sales performance, demonstrating the value of data-driven decision-making in a corporate setting.
+5% to 7% in the next quarter. Overall, the project aims to reduce costs related to manual data merging, increase efficiency, and improve sales performance, demonstrating the value of data-driven decision-making in a corporate setting.
